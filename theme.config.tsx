@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <img src="https://billfixerz.com/_next/static/media/logo.d1a0e7cc.png" width="50" />,
+  logo: <img src="https://billfixerz.com/_next/static/media/logo.d1a0e7cc.png" width="40" />,
   project: {
     link: 'https://github.com/shuding/nextra-docs-template',
   },
